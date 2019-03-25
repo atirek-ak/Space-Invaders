@@ -1,10 +1,24 @@
-# Space-Invaders
+# Space Invaders
+A basic version of the popular arcade game Space Invaders
 
-A basic version of Space Invaders using PyGame
+## Getting started
+### Installing python
+For MacOS: ```brew install python3 ```  
+For Linux: ```sudo apt-get install python3```
 
-Coded by Atirek Kumar in Python3
-
-Python Module Used: PyGame
-
-To run the game, use the command:
+### To run the game:
 python3 pyInvaders.py
+
+## Controls
+- 'a' & 'd' for left and right movement respectively
+- Spacebar to fire missile1
+- 's' to fire missile2
+- 'q' to quit game
+
+## Coded using:
+- python3
+- Module: pygame
+
+## Author
+Atirek Kumar  
+Github handle: https://github.com/atirek-ak
