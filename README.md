@@ -7,7 +7,7 @@ For MacOS: ```brew install python3 ```
 For Linux: ```sudo apt-get install python3```
 
 ### To run the game:
-python3 pyInvaders.py
+```python3 pyInvaders.py```
 
 ## Controls
 - 'a' & 'd' for left and right movement respectively
