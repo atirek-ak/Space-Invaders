@@ -1,10 +1,12 @@
 # Space Invaders
-A basic version of the popular arcade game Space Invaders
+A basic version of the popular arcade game Space Invaders made using PyGame  
 
 ## Getting started
 ### Installing python
-For MacOS: ```brew install python3 ```  
-For Linux: ```sudo apt-get install python3```
+* MacOS:  
+```brew install python3 ```  
+* Linux:  
+```sudo apt-get install python3```
 
 ### To run the game:
 ```python3 pyInvaders.py```
